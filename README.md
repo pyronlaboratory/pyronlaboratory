@@ -10,7 +10,7 @@ I run a small tech hub on the west coast of India, from where I collaborate with
 
 I work with Python, Git and Docker containers. All. Day. Long.
 
-My appetite for exploring the evolving trends in the industry, has helped me to grow my toolbet, which has a wide range of technologies including, but not limited to, Amazon Web Services, Elasticsearch, Tensorflow, React, Lighthouse, Workbox..
+My appetite for exploring the evolving trends in the industry, has helped me to grow my toolbelt, which has a wide range of technologies including, but not limited to, Amazon Web Services, Elasticsearch, Tensorflow, React, Lighthouse, Workbox..
 
 I follow PyCon and Google's opinionated reference for building amazing web experiences.
 
