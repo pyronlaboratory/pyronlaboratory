@@ -1,38 +1,21 @@
 ## Hello, World! 👋 
 
-I'm Ronnie, an aspiring game engineer hailing from the UK. 
+I'm Ronnie..
 
-### Simulation Portfolio —
+A dedicated, agile, and passionate, Fullstack Developer and Solutions Architect, with more than 6 years of hands-on experience in designing, developing, deploying, and maintaining scalable enterprise applications.
 
-*Adventures from simulated realms*
+I specialize in implementing complicated architectural patterns on cloud platforms such as Amazon Web Services, Google Cloud Platform, and Firebase.
 
-A curated collection of 3D graphics and gaming software developed during my pursuit of a Master's degree in Computer Science for Game Development.
+Although I'm primarily using Node.js and Python, I've established myself as a true polyglot, who follows Google's opinionated reference for building amazing web experiences.
 
-## **Underwater Life Simulation**
+My appetite for exploring the evolving trends in the industry has helped me to grow my toolbelt, which has a wide range of technologies including, but not limited to, Elasticsearch, Tensorflow, and 3D Graphics with WebGL and DirectX.
 
-A Direct3D 11 UWP app with procedurally generated visual effects for a sea life-based game. Implemented SM5 HLSL shaders to render objects using implicit and explicit geometry. Included realistic texturing, illumination, and animation for dynamic objects like sea bubbles and fish.
+I often contribute to the community using various means. I've got a growing reputation on GitHub and StackOverflow, and so far my posts have been able to help more than 200k developers.
 
-[View Project](https://github.com/202219807/700119_001_CWRK)
+Throughout my previous roles, I have been actively involved in training and mentoring young engineers and post-graduates, guiding them to become industry-ready. 
 
-![03](https://github.com/202219807/202219807/assets/114568786/65005170-b240-45a8-a4de-75e7d4aaec34)
-![01](https://github.com/202219807/202219807/assets/114568786/f13b3267-2255-4a31-891b-1e2fdb40dbdf)
+I've independently developed and open-sourced a simple editor for rendering WebGL and WebXR graphics and creating immersive interactions, available at the public npm registry.
 
-## **Rocket Launch Sequence**
+I hold the Arctic Code Vault Contributor badge for the 2020 GitHub Archive Program and I've also open source a build tool published at The Heroku Elements Marketplace. 
 
-Physical-based modelling and animation using DirectX 11 APIs to simulate the test firing of a rocket and the subsequent explosive and deformation that occurs when the rocket impacts the terrain. 
-
-[View Project](https://github.com/202219807/700120_001_CWRK) 
-
-![15](https://github.com/202219807/202219807/assets/114568786/83745a50-2bea-4c4a-843d-b68bfd94a28c)
-![12](https://github.com/202219807/202219807/assets/114568786/56e76c59-de50-472e-8699-55637eaf043e)
-
-## **Tower Defense Simulation**
-
-An OpenGL framework featuring precise physics simulation with multiple integration methods, collision detection and response system. The AI agents showcase diverse behaviour through state machines, fuzzy logic, advanced pathfinding and spatial segmentation techniques.
-
-[View Project](https://github.com/202219807/700110_001_CWRK) 
-
-![05](https://github.com/202219807/202219807/assets/114568786/0904a942-3498-4532-9ab3-8628db3bbb69)
-![10](https://github.com/202219807/202219807/assets/114568786/8236717e-8ed7-45bd-b2df-986ec64830ce)
-
-Levelling up every day with ☕ & 🕒
+Levelling up as an engineer 🚀 every day with ☕ and 🕒
