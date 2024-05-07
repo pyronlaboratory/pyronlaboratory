@@ -6,7 +6,7 @@ A dedicated, agile, and passionate, Fullstack Developer and Solutions Architect,
 
 I specialize in implementing complicated architectural patterns on cloud platforms such as Amazon Web Services, Google Cloud Platform, and Firebase.
 
-Although I'm primarily using Node.js and Python, I've established myself as a true polyglot, who follows Google's opinionated reference for building amazing web experiences.
+Although I'm primarily using Node.js and Python, I've established myself as a true polyglot.
 
 My appetite for exploring the evolving trends in the industry has helped me to grow my toolbelt, which has a wide range of technologies including, but not limited to, Elasticsearch, Tensorflow, and 3D Graphics with WebGL and DirectX.
 
