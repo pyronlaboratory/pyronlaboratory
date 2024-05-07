@@ -2,7 +2,7 @@
 
 I'm Ronnie..
 
-A dedicated, agile, and passionate, Fullstack Developer and Solutions Architect, with more than 6 years of hands-on experience in designing, developing, deploying, and maintaining scalable enterprise applications.
+A dedicated, agile, and passionate, Fullstack Developer and Solutions Architect, with more than 7 years of hands-on experience in designing, developing, deploying, and maintaining scalable enterprise applications.
 
 I specialize in implementing complicated architectural patterns on cloud platforms such as Amazon Web Services, Google Cloud Platform, and Firebase.
 
