@@ -1,21 +1,37 @@
 ## Hello, World! 👋 
 
-I'm Ronnie..
+I'm Ronnie
 
-A dedicated, agile, and passionate, Fullstack Developer and Solutions Architect, with more than 7 years of hands-on experience in designing, developing, deploying, and maintaining scalable enterprise applications.
+A seasoned Fullstack Software Engineer and Cloud Solutions Architect, with over 7 years of expertise in building and optimising enterprise-grade distributed systems and cross-platform apps.
 
-I specialize in implementing complicated architectural patterns on cloud platforms such as Amazon Web Services, Google Cloud Platform, and Firebase.
+Led technical initiatives for fast-paced startups and SMEs, aligning product roadmaps with business objectives and delivering scalable technical solutions in agile and cross-functional collaborative environments.
 
-Although I'm primarily using Node.js and Python, I've established myself as a true polyglot.
+Extensive experience in system designing, with a strong background in architecting scalable, fault-tolerant systems on cloud platforms like Amazon Web Services and Google Cloud Platform, leveraging design patterns such as microservices, serverless, and event-driven architectures to meet business and technical requirements.
 
-My appetite for exploring the evolving trends in the industry has helped me to grow my toolbelt, which has a wide range of technologies including, but not limited to, Elasticsearch, Tensorflow, and 3D Graphics with WebGL and DirectX.
+Primarily proficient in C++ and Node.js, with a strong foundation as a polyglot engineer following language-agnostic principles and modular design to create efficient solutions.
 
-I often contribute to the community using various means. I've got a growing reputation on GitHub and StackOverflow, and so far my posts have been able to help more than 200k developers.
+Actively involved in training and mentoring young engineers and post-graduates, guiding them to become industry-ready professionals.
 
-Throughout my previous roles, I have been actively involved in training and mentoring young engineers and post-graduates, guiding them to become industry-ready. 
-
-I've independently developed and open-sourced a simple editor for rendering WebGL and WebXR graphics and creating immersive interactions, available at the public npm registry.
-
-I hold the Arctic Code Vault Contributor badge for the 2020 GitHub Archive Program and I've also open source a build tool published at The Heroku Elements Marketplace. 
+Regularly contributes to open-source projects and developer communities, gaining recognition on platforms like GitHub and StackOverflow, with contributions reaching over 300,000 developers.
 
 Levelling up as an engineer 🚀 every day with ☕ and 🕒
+
+------------------
+
+#### Open-source contributions
+
+  → Lightweight editor for rendering and creating immersive interactions with WebGL and WebXR Device APIs, available at the public npm registry. [Read more](https://eleanor-studio.github.io/photon.editor/)
+  
+  → Automation build tool to support Firefox/Geckodriver in Heroku slugs, published at The Heroku Elements Marketplace. [Read more](https://elements.heroku.com/buildpacks/pyronlaboratory/heroku-integrated-firefox-geckodriver)
+  
+------------------
+
+When I’m not in front of a screen, I’m usually reading about psychology or philosophy—constantly discovering fresh perspectives that fuel my creativity. 
+
+Currently reading _Undisputed: How to Become World Champion_ by Chris Jericho
+
+------------------
+
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/ronnie94official/) and explore how I can help you achieve your goals. 
+
+Read more about my services or [book a discovery call](https://calendly.com/meet_ronnie/30min) through my [website](https://www.ronnie.tech).
