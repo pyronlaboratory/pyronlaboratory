@@ -8,7 +8,7 @@ Led technical initiatives for fast-paced startups and SMEs, aligning product roa
 
 Extensive experience in system designing, with a strong background in architecting scalable, fault-tolerant systems on cloud platforms like Amazon Web Services and Google Cloud Platform, leveraging design patterns such as microservices, serverless, and event-driven architectures to meet business and technical requirements.
 
-Primarily proficient in C++ and Node.js, with a strong foundation as a polyglot engineer following language-agnostic principles and modular design to create efficient solutions.
+Primarily proficient in Python and Node.js, with a strong foundation as a polyglot engineer following language-agnostic principles and modular design to create efficient solutions.
 
 Actively involved in training and mentoring young engineers and post-graduates, guiding them to become industry-ready professionals.
 
