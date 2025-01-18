@@ -2,7 +2,7 @@
 
 I'm Ronnie
 
-A seasoned Fullstack Software Engineer and Cloud Solutions Architect, with over 7 years of expertise in building and optimising enterprise-grade distributed systems and cross-platform apps.
+A seasoned Fullstack Software Engineer and Cloud Solutions Architect, with over 8 years of expertise in building and optimising enterprise-grade distributed systems and cross-platform apps.
 
 Led technical initiatives for fast-paced startups and SMEs, aligning product roadmaps with business objectives and delivering scalable technical solutions in agile and cross-functional collaborative environments.
 
@@ -12,7 +12,7 @@ Primarily proficient in Python and Node.js, with a strong foundation as a polygl
 
 Actively involved in training and mentoring young engineers and post-graduates, guiding them to become industry-ready professionals.
 
-Regularly contributes to open-source projects and developer communities, gaining recognition on platforms like GitHub and StackOverflow, with contributions reaching over 300,000 developers.
+Regularly contribute to open-source projects and developer communities, gaining recognition on platforms like GitHub and StackOverflow, with contributions reaching over 300,000 developers.
 
 Levelling up as an engineer 🚀 every day with ☕ and 🕒
 
