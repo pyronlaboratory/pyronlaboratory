@@ -1,37 +1,30 @@
 ## Hello, World! 👋 
 
-I'm Ronnie
+I'm Ronnie, a UK-based software engineer and technical architect with 10+ years of building cloud-native softwares, applications, tools, games, and automations for web, desktop, and mobile platforms. 
 
-A seasoned Fullstack Software Engineer and Cloud Solutions Architect, with over 8 years of expertise in building and optimising enterprise-grade distributed systems and cross-platform apps.
+My primary technologies are C++, Python, and TypeScript. I'm particularly passionate about real-time graphics, game engine architecture, and secure software design. 
 
-Led technical initiatives for fast-paced startups and SMEs, aligning product roadmaps with business objectives and delivering scalable technical solutions in agile and cross-functional collaborative environments.
+I also enjoy sharing my insights on software engineering, systems design, and the craft of building across various technology stacks.
 
-Extensive experience in system designing, with a strong background in architecting scalable, fault-tolerant systems on cloud platforms like Amazon Web Services and Google Cloud Platform, leveraging design patterns such as microservices, serverless, and event-driven architectures to meet business and technical requirements.
 
-Primarily proficient in Python and Node.js, with a strong foundation as a polyglot engineer following language-agnostic principles and modular design to create efficient solutions.
 
-Actively involved in training and mentoring young engineers and post-graduates, guiding them to become industry-ready professionals.
+#### Open Source Contributions
 
-Regularly contribute to open-source projects and developer communities, gaining recognition on platforms like GitHub and StackOverflow, with contributions reaching over 300,000 developers.
+[Heroku Buildpack](https://elements.heroku.com/buildpacks/pyronlaboratory/heroku-integrated-firefox-geckodriver) 
 
-Levelling up as an engineer 🚀 every day with ☕ and 🕒
+Automation build tool to install and configure Firefox and Geckodriver in Heroku slugs. Published at The Heroku Elements Marketplace. 
 
-------------------
+[Phoenix](https://eleanor-studio.github.io/photon.editor/) 
 
-#### Open-source contributions
+Lightweight editor for rendering and creating immersive interactions with WebGL and WebXR Device APIs. Available at the public npm registry. 
 
-  → Lightweight editor for rendering and creating immersive interactions with WebGL and WebXR Device APIs, available at the public npm registry. [Read more](https://eleanor-studio.github.io/photon.editor/)
-  
-  → Automation build tool to support Firefox/Geckodriver in Heroku slugs, published at The Heroku Elements Marketplace. [Read more](https://elements.heroku.com/buildpacks/pyronlaboratory/heroku-integrated-firefox-geckodriver)
-  
-------------------
+---- 
 
-When I’m not in front of a screen, I’m usually reading about psychology or philosophy—constantly discovering fresh perspectives that fuel my creativity. 
 
-Currently reading _Undisputed: How to Become World Champion_ by Chris Jericho
-
-------------------
+#### Contact
 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ronnie94official/) and explore how I can help you achieve your goals. 
 
 Read more about my services or [book a discovery call](https://calendly.com/meet_ronnie/30min) through my [website](https://www.ronnie.tech).
+
+<img src="https://github.com/user-attachments/assets/736d0fbd-1ae7-431f-9fbb-2b7c92df9cc3" width="150" />
