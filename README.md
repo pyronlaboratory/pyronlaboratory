@@ -6,20 +6,7 @@ My primary technologies are C++, Python, and TypeScript. I'm particularly passio
 
 I also enjoy sharing my insights on software engineering, systems design, and the craft of building across various technology stacks.
 
-
-
-#### Open Source Contributions
-
-[Heroku Buildpack](https://elements.heroku.com/buildpacks/pyronlaboratory/heroku-integrated-firefox-geckodriver) 
-
-Automation build tool to install and configure Firefox and Geckodriver in Heroku slugs. Published at The Heroku Elements Marketplace. 
-
-[Phoenix](https://eleanor-studio.github.io/photon.editor/) 
-
-Lightweight editor for rendering and creating immersive interactions with WebGL and WebXR Device APIs. Available at the public npm registry. 
-
 ---- 
-
 
 #### Contact
 
