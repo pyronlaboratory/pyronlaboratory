@@ -4,7 +4,7 @@ I'm Ronnie, a UK-based software engineer and technical architect with 10+ years 
 
 My primary technologies are C++, Python, and TypeScript. I'm particularly passionate about real-time graphics, game engine architecture, and secure software design. 
 
-I also enjoy sharing my insights on software engineering, systems design, and the craft of building across various technology stacks.
+I also enjoy sharing my insights on software engineering, systems design, and building software across the stack.
 
 ---- 
 
