@@ -12,6 +12,6 @@ I also enjoy sharing my insights on software engineering, systems design, and bu
 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/ronnie94official/) and explore how I can help you achieve your goals. 
 
-Read more about my [services](https://www.ronnie.tech/#services) or [book a discovery call](https://calendly.com/meet_ronnie/30min) through my [website](https://www.ronnie.tech).
+Read more about my [services](https://www.ronnie.tech/#services) or [book a discovery call](https://calendly.com/meet_ronnie/20min) through my [website](https://www.ronnie.tech).
 
 <img src="https://github.com/user-attachments/assets/736d0fbd-1ae7-431f-9fbb-2b7c92df9cc3" width="150" />
